@@ -1,0 +1,31 @@
+With EnemyList(5, 2)
+            .EnemyName = EnemyType.AscendantMale
+            .HP = 200
+            .Atk = 70
+            .Def = 70
+            .XP = 88
+        End With
+
+        With EnemyList(5, 5)
+            .EnemyName = EnemyType.AscendantFemale
+            .HP = 250
+            .Atk = 50
+            .Def = 85
+            .XP = 88
+        End With
+
+        With EnemyList(1, 5)
+            .EnemyName = EnemyType.CursedAscendantFemale
+            .HP = 450
+            .Atk = 100
+            .Def = 120
+            .XP = 130
+        End With
+
+        With EnemyList(3, 5)
+            .EnemyName = EnemyType.CursedAscendantMale
+            .HP = 300
+            .Atk = 110
+            .Def = 90
+            .XP = 130
+        End With

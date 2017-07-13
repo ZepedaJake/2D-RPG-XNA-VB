@@ -1,0 +1,114 @@
+With EnemyList(5, 6)
+            .EnemyName = EnemyType.Bat
+            .HP = 15
+            .Atk = 5
+            .Def = 2
+            .XP = 8
+        End With
+        With EnemyList(7, 6)
+            .EnemyName = EnemyType.Bat
+            .HP = 15
+            .Atk = 5
+            .Def = 2
+            .XP = 8
+        End With
+        With EnemyList(6, 7)
+            .EnemyName = EnemyType.Bat
+            .HP = 15
+            .Atk = 5
+            .Def = 2
+            .XP = 8
+        End With
+        With EnemyList(6, 6)
+            .EnemyName = EnemyType.RedSlime
+            .HP = 50
+            .Atk = 15
+            .Def = 10
+            .XP = 15
+        End With
+
+        With EnemyList(4, 4)
+            .EnemyName = EnemyType.PinkSlime
+            .HP = 10
+            .Atk = 2
+            .Def = 0
+            .XP = 4
+        End With
+        With EnemyList(5, 4)
+            .EnemyName = EnemyType.PinkSlime
+            .HP = 10
+            .Atk = 2
+            .Def = 0
+            .XP = 4
+        End With
+        With EnemyList(6, 4)
+            .EnemyName = EnemyType.PinkSlime
+            .HP = 10
+            .Atk = 2
+            .Def = 0
+            .XP = 4
+        End With
+        With EnemyList(5, 2)
+            .EnemyName = EnemyType.PinkSlime
+            .HP = 10
+            .Atk = 2
+            .Def = 0
+            .XP = 4
+        End With
+        With EnemyList(6, 2)
+            .EnemyName = EnemyType.PinkSlime
+            .HP = 10
+            .Atk = 2
+            .Def = 0
+            .XP = 4
+        End With
+        With EnemyList(6, 1)
+            .EnemyName = EnemyType.PinkSlime
+            .HP = 10
+            .Atk = 2
+            .Def = 0
+            .XP = 4
+        End With
+        With EnemyList(1, 4)
+            .EnemyName = EnemyType.Knight
+            .HP = 70
+            .Atk = 25
+            .Def = 30
+            .XP = 30
+        End With
+        With EnemyList(1, 5)
+            .EnemyName = EnemyType.Knight
+            .HP = 70
+            .Atk = 25
+            .Def = 30
+            .XP = 30
+        End With
+        With EnemyList(1, 6)
+            .EnemyName = EnemyType.Knight
+            .HP = 70
+            .Atk = 25
+            .Def = 30
+            .XP = 30
+        End With
+
+        With EnemyList(1, 1)
+            .EnemyName = EnemyType.RedSlime
+            .HP = 50
+            .Atk = 15
+            .Def = 10
+            .XP = 15
+        End With
+        With EnemyList(2, 1)
+            .EnemyName = EnemyType.RedSlime
+            .HP = 50
+            .Atk = 15
+            .Def = 10
+            .XP = 15
+        End With
+        With EnemyList(3, 1)
+            .EnemyName = EnemyType.RedSlime
+            .HP = 50
+            .Atk = 15
+            .Def = 10
+            .XP = 15
+        End With

@@ -1,0 +1,95 @@
+With EnemyList(4, 2)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+        With EnemyList(3, 3)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+        With EnemyList(5, 3)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+        With EnemyList(4, 4)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+        With EnemyList(3, 5)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+        With EnemyList(5, 5)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+        With EnemyList(4, 6)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+
+        With EnemyList(6, 3)
+            .EnemyName = EnemyType.AscendantMale
+            .HP = 200
+            .Atk = 70
+            .Def = 70
+            .XP = 88
+        End With
+        With EnemyList(6, 5)
+            .EnemyName = EnemyType.AscendantMale
+            .HP = 200
+            .Atk = 70
+            .Def = 70
+            .XP = 88
+        End With
+
+        With EnemyList(2, 3)
+            .EnemyName = EnemyType.AscendantFemale
+            .HP = 250
+            .Atk = 50
+            .Def = 85
+            .XP = 88
+        End With
+        With EnemyList(2, 5)
+            .EnemyName = EnemyType.AscendantFemale
+            .HP = 250
+            .Atk = 50
+            .Def = 85
+            .XP = 88
+        End With
+
+        With EnemyList(2, 7)
+            .EnemyName = EnemyType.CursedAscendantFemale
+            .HP = 450
+            .Atk = 100
+            .Def = 120
+            .XP = 130
+        End With
+
+        With EnemyList(6, 1)
+            .EnemyName = EnemyType.CursedAscendantMale
+            .HP = 300
+            .Atk = 110
+            .Def = 90
+            .XP = 130
+        End With

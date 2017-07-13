@@ -1,0 +1,73 @@
+With EnemyList(7, 8)
+            .EnemyName = EnemyType.HeavyKnight
+            .HP = 85
+            .Atk = 30
+            .Def = 40
+            .XP = 45
+        End With
+        With EnemyList(8, 8)
+            .EnemyName = EnemyType.HeavyKnight
+            .HP = 85
+            .Atk = 30
+            .Def = 40
+            .XP = 45
+        End With
+
+        With EnemyList(2, 8)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+        With EnemyList(3, 8)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+        For x = 1 To 2
+            With EnemyList(x, 9)
+                .EnemyName = EnemyType.Golem
+                .HP = 100
+                .Atk = 30
+                .Def = 50
+                .XP = 50
+            End With
+        Next
+        With EnemyList(1, 10)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+
+        For x = 7 To 8
+            For y = 9 To 10
+                With EnemyList(x, y)
+                    .EnemyName = EnemyType.Golem
+                    .HP = 100
+                    .Atk = 30
+                    .Def = 50
+                    .XP = 50
+                End With
+            Next
+        Next
+
+        With EnemyList(4, 2)
+            .EnemyName = EnemyType.CursedAscendantFemale
+            .HP = 450
+            .Atk = 100
+            .Def = 120
+            .XP = 130
+        End With
+
+        With EnemyList(4, 1)
+            .EnemyName = EnemyType.CursedAscendantMale
+            .HP = 300
+            .Atk = 110
+            .Def = 90
+            .XP = 130
+        End With

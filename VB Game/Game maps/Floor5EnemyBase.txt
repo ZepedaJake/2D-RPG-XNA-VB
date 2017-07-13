@@ -1,0 +1,49 @@
+With EnemyList(2, 2)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+
+        With EnemyList(6, 2)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+
+        With EnemyList(3, 2)
+            .EnemyName = EnemyType.Knight
+            .HP = 70
+            .Atk = 25
+            .Def = 30
+            .XP = 30
+        End With
+        With EnemyList(5, 2)
+            .EnemyName = EnemyType.Knight
+            .HP = 70
+            .Atk = 25
+            .Def = 30
+            .XP = 30
+        End With
+        For x = 3 To 5
+            For y = 3 To 4
+                With EnemyList(x, y)
+                    .EnemyName = EnemyType.Knight
+                    .HP = 70
+                    .Atk = 25
+                    .Def = 30
+                    .XP = 30
+                End With
+            Next
+        Next
+
+        With EnemyList(4, 2)
+            .EnemyName = EnemyType.HeavyKnight
+            .HP = 85
+            .Atk = 30
+            .Def = 40
+            .XP = 45
+        End With

@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Arial_8.spritefont</Source>
+      <Name>Fonts\Arial_8</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\Arial_8.xnb</Output>
+      <Time>2016-02-29T14:51:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial_20.spritefont</Source>
+      <Name>Fonts\Arial_20</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\Arial_20.xnb</Output>
+      <Time>2016-03-24T23:00:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\Sanic.jpg</Source>
+      <Name>GFX\Sanic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Sanic.xnb</Output>
+      <Time>2016-02-12T11:46:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\Drop.png</Source>
+      <Name>GFX\Drop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Drop.xnb</Output>
+      <Time>2016-02-15T13:14:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\WorldGFX\Sprites.png</Source>
+      <Name>GFX\WorldGFX\Sprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\WorldGFX\Sprites.xnb</Output>
+      <Time>2016-02-15T21:14:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\Toons\stickmanSprite.png</Source>
+      <Name>GFX\Toons\stickmanSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Toons\stickmanSprite.xnb</Output>
+      <Time>2016-02-17T22:35:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\WorldGFX\NewSprites.png</Source>
+      <Name>GFX\WorldGFX\NewSprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\WorldGFX\NewSprites.xnb</Output>
+      <Time>2016-03-25T20:07:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\Toons\Terry.png</Source>
+      <Name>GFX\Toons\Terry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Toons\Terry.xnb</Output>
+      <Time>2016-04-03T01:48:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\TitleArt.png</Source>
+      <Name>GFX\TitleArt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\TitleArt.xnb</Output>
+      <Time>2016-03-03T20:01:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\Menu.png</Source>
+      <Name>GFX\Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Menu.xnb</Output>
+      <Time>2016-03-30T13:21:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Heal.wav</Source>
+      <Name>Sound\Heal</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sound\Heal.xnb</Output>
+      <Time>2016-03-30T23:59:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Hit.wav</Source>
+      <Name>Sound\Hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sound\Hit.xnb</Output>
+      <Time>2016-03-30T23:59:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Pickup.wav</Source>
+      <Name>Sound\Pickup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sound\Pickup.xnb</Output>
+      <Time>2016-04-03T10:28:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Dialouge.wav</Source>
+      <Name>Music\Dialouge</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Dialouge.xnb</Output>
+      <Time>2016-04-01T13:00:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Death.wav</Source>
+      <Name>Music\Death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Death.xnb</Output>
+      <Time>2016-04-01T14:01:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\LowFloors.wav</Source>
+      <Name>Music\LowFloors</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\LowFloors.xnb</Output>
+      <Time>2016-04-01T14:02:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\HighFloors.wav</Source>
+      <Name>Music\HighFloors</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\HighFloors.xnb</Output>
+      <Time>2016-04-01T14:02:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Boss.wav</Source>
+      <Name>Music\Boss</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Boss.xnb</Output>
+      <Time>2016-04-01T14:02:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Title.wav</Source>
+      <Name>Music\Title</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Title.xnb</Output>
+      <Time>2016-04-01T14:06:50-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7D56268B-7E06-45C3-8916-A2A4020DA510}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-02-11T11:41:03.7902286-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

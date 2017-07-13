@@ -1,0 +1,15 @@
+With EnemyList(1, 5)
+            .EnemyName = EnemyType.CursedAscendantFemale
+            .HP = 450
+            .Atk = 100
+            .Def = 120
+            .XP = 130
+        End With
+
+        With EnemyList(11, 5)
+            .EnemyName = EnemyType.CursedAscendantMale
+            .HP = 300
+            .Atk = 110
+            .Def = 90
+            .XP = 130
+        End With

@@ -1,0 +1,58 @@
+ With EnemyList(6, 1)
+            .EnemyName = EnemyType.RedSlime
+            .HP = 50
+            .Atk = 15
+            .Def = 10
+            .XP = 15
+        End With
+        With EnemyList(10, 1)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+
+        With EnemyList(5, 2)
+            .EnemyName = EnemyType.RedSlime
+            .HP = 50
+            .Atk = 15
+            .Def = 10
+            .XP = 15
+        End With
+        With EnemyList(11, 2)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+
+        With EnemyList(10, 5)
+            .EnemyName = EnemyType.RedSlime
+            .HP = 50
+            .Atk = 15
+            .Def = 10
+            .XP = 15
+        End With
+        With EnemyList(11, 4)
+            .EnemyName = EnemyType.RedSlime
+            .HP = 50
+            .Atk = 15
+            .Def = 10
+            .XP = 15
+        End With
+        With EnemyList(6, 5)
+            .EnemyName = EnemyType.Knight
+            .HP = 70
+            .Atk = 25
+            .Def = 30
+            .XP = 30
+        End With
+        With EnemyList(5, 4)
+            .EnemyName = EnemyType.Knight
+            .HP = 70
+            .Atk = 25
+            .Def = 30
+            .XP = 30
+        End With

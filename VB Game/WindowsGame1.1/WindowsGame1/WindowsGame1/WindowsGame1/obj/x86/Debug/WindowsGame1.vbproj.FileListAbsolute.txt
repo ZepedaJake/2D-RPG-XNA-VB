@@ -1,0 +1,208 @@
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.xml
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.vbprojResolveAssemblyReference.cache
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.xml
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\Arial_8.xnb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\Georgia_16.xnb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Sanic.xnb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Drop.xnb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\WorldGFX\Sprites.xnb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Toons\stickmanSprite.xnb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\WorldGFX\NewSprites.xnb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\Arial_8.xnb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\Georgia_16.xnb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Sanic.xnb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Drop.xnb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\WorldGFX\Sprites.xnb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Toons\stickmanSprite.xnb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\WorldGFX\NewSprites.xnb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.xml
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.vbprojResolveAssemblyReference.cache
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.xml
+C:\Users\Jake\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Sanic.xnb
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Drop.xnb
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\WorldGFX\Sprites.xnb
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Toons\stickmanSprite.xnb
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\WorldGFX\NewSprites.xnb
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.xml
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.xml
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Toons\Terry.xnb
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\TitleArt.xnb
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe.manifest
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.application
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe.manifest
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.application
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Title.xnb
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\6.xnb
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Into the Tower.xnb
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Menu.xnb
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.vbprojResolveAssemblyReference.cache
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\Arial_8.xnb
+C:\Users\Jake\Desktop\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\Arial_20.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\Arial_8.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\Arial_20.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Sanic.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Drop.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\WorldGFX\Sprites.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Toons\stickmanSprite.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\WorldGFX\NewSprites.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Toons\Terry.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\TitleArt.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Menu.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Title.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.vbprojResolveAssemblyReference.cache
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.xml
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe.manifest
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.application
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.xml
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.dll
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.xml
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe.manifest
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.application
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\Arial_8.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\Arial_20.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Sanic.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Drop.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\WorldGFX\Sprites.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Toons\stickmanSprite.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\WorldGFX\NewSprites.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Toons\Terry.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\TitleArt.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Menu.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Title.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe.manifest
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.application
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.xml
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.dll
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.xml
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.vbprojResolveAssemblyReference.cache
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe.manifest
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.application
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.xml
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Death.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Death.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sound\Heal.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sound\Hit.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sound\Pickup.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sound\Heal.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sound\Hit.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sound\Pickup.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Dialouge.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Dialouge.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\LowFloors.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\HighFloors.xnb
+H:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Boss.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\LowFloors.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\HighFloors.xnb
+G:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Boss.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\Arial_8.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\Arial_20.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Sanic.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Drop.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\WorldGFX\Sprites.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Toons\stickmanSprite.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\WorldGFX\NewSprites.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Toons\Terry.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\TitleArt.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\GFX\Menu.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sound\Heal.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sound\Hit.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sound\Pickup.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Dialouge.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Death.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\LowFloors.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\HighFloors.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Boss.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music\Title.xnb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.vbprojResolveAssemblyReference.cache
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.xml
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe.manifest
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.application
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.xml
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe.manifest
+F:\VB Game\WindowsGame1.1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.application

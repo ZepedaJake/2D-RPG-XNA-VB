@@ -1,0 +1,29 @@
+For y = 6 To 13
+            For x = 0 To 2
+                With InteractList(x, y)
+                    .InteractItem = InteractType.Black
+                    .IsBlocked = True
+                End With
+            Next
+            For x = 4 To 6
+                With InteractList(x, y)
+                    .InteractItem = InteractType.Black
+                    .IsBlocked = True
+                End With
+            Next
+
+        Next
+
+        With InteractList(3, 13)
+            .InteractItem = InteractType.Black
+            .IsBlocked = True
+        End With
+
+        With InteractList(3, 3)
+            .InteractItem = InteractType.Hood
+            .IsBlocked = True
+        End With
+
+With InteractList(3, 12)
+            .InteractItem = InteractType.PortalRed
+        End With

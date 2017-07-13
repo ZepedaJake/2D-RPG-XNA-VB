@@ -1,0 +1,60 @@
+With InteractList(2, 0)
+            .InteractItem = InteractType.MidCorner
+            .IsBlocked = True
+        End With
+        With InteractList(4, 0)
+            .InteractItem = InteractType.MidCorner
+            .IsBlocked = True
+        End With
+        With InteractList(6, 0)
+            .InteractItem = InteractType.MidCorner
+            .IsBlocked = True
+        End With
+
+        For y = 1 To 6
+            With InteractList(2, y)
+                .InteractItem = InteractType.SideWall
+                .IsBlocked = True
+            End With
+            With InteractList(4, y)
+                .InteractItem = InteractType.SideWall
+                .IsBlocked = True
+            End With
+            With InteractList(6, y)
+                .InteractItem = InteractType.SideWall
+                .IsBlocked = True
+            End With
+        Next
+
+        With InteractList(2, 5)
+            .InteractItem = InteractType.SideSilverDoor
+            .IsBlocked = True
+        End With
+        With InteractList(6, 5)
+            .InteractItem = InteractType.SideGoldDoor
+            .IsBlocked = True
+        End With
+        With InteractList(4, 2)
+            .InteractItem = InteractType.SideBronzeDoor
+            .IsBlocked = True
+        End With
+
+        With InteractList(1, 1)
+            .InteractItem = InteractType.CursedSword
+        End With
+        With InteractList(3, 6)
+            .InteractItem = InteractType.GoldShield
+        End With
+        With InteractList(5, 6)
+            .InteractItem = InteractType.GoldSword
+        End With
+        With InteractList(7, 2)
+            .InteractItem = InteractType.GoldShield
+        End With
+
+        With InteractList(3, 1)
+            .InteractItem = InteractType.PortalRed
+        End With
+        With InteractList(7, 1)
+            .InteractItem = InteractType.PortalGreen
+        End With

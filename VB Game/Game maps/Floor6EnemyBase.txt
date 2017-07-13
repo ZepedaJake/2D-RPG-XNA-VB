@@ -1,0 +1,117 @@
+ With EnemyList(1, 1)
+            .EnemyName = EnemyType.HeavyKnight
+            .HP = 85
+            .Atk = 30
+            .Def = 40
+            .XP = 45
+        End With
+        With EnemyList(2, 1)
+            .EnemyName = EnemyType.Knight
+            .HP = 70
+            .Atk = 25
+            .Def = 30
+            .XP = 30
+        End With
+        With EnemyList(1, 2)
+            .EnemyName = EnemyType.Knight
+            .HP = 70
+            .Atk = 25
+            .Def = 30
+            .XP = 30
+        End With
+
+        With EnemyList(15, 1)
+            .EnemyName = EnemyType.HeavyKnight
+            .HP = 85
+            .Atk = 30
+            .Def = 40
+            .XP = 45
+        End With
+        With EnemyList(14, 1)
+            .EnemyName = EnemyType.Knight
+            .HP = 70
+            .Atk = 25
+            .Def = 30
+            .XP = 30
+        End With
+        With EnemyList(15, 2)
+            .EnemyName = EnemyType.Knight
+            .HP = 70
+            .Atk = 25
+            .Def = 30
+            .XP = 30
+        End With
+
+        With EnemyList(1, 7)
+            .EnemyName = EnemyType.HeavyKnight
+            .HP = 85
+            .Atk = 30
+            .Def = 40
+            .XP = 45
+        End With
+        With EnemyList(2, 7)
+            .EnemyName = EnemyType.Knight
+            .HP = 70
+            .Atk = 25
+            .Def = 30
+            .XP = 30
+        End With
+        With EnemyList(1, 6)
+            .EnemyName = EnemyType.Knight
+            .HP = 70
+            .Atk = 25
+            .Def = 30
+            .XP = 30
+        End With
+
+        With EnemyList(15, 7)
+            .EnemyName = EnemyType.HeavyKnight
+            .HP = 85
+            .Atk = 30
+            .Def = 40
+            .XP = 45
+        End With
+        With EnemyList(14, 7)
+            .EnemyName = EnemyType.Knight
+            .HP = 70
+            .Atk = 25
+            .Def = 30
+            .XP = 30
+        End With
+        With EnemyList(15, 6)
+            .EnemyName = EnemyType.Knight
+            .HP = 70
+            .Atk = 25
+            .Def = 30
+            .XP = 30
+        End With
+
+        With EnemyList(10, 2)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+        With EnemyList(10, 6)
+            .EnemyName = EnemyType.Golem
+            .HP = 100
+            .Atk = 30
+            .Def = 50
+            .XP = 50
+        End With
+        With EnemyList(10, 3)
+            .EnemyName = EnemyType.AscendantMale
+            .HP = 200
+            .Atk = 70
+            .Def = 70
+            .XP = 88
+        End With
+
+        With EnemyList(10, 5)
+            .EnemyName = EnemyType.AscendantFemale
+            .HP = 250
+            .Atk = 50
+            .Def = 85
+            .XP = 88
+        End With

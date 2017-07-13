@@ -1,0 +1,5 @@
+***this was created with external libraries and will not open or run without installing them***
+
+to run: open XNA folder. install 1-4
+
+to view code, open XNA Folder. Install 5 (only works for visual studio 2015)

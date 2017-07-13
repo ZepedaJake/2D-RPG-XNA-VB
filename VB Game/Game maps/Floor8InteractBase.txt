@@ -1,0 +1,139 @@
+With InteractList(2, 0)
+            .InteractItem = InteractType.InRightMidCorner1
+            .IsBlocked = True
+        End With
+        With InteractList(3, 0)
+            .InteractItem = InteractType.InRightMidCorner2
+            .IsBlocked = True
+        End With
+        With InteractList(3, 1)
+            .InteractItem = InteractType.SideGoldDoor
+            .IsBlocked = True
+        End With
+        With InteractList(3, 2)
+            .InteractItem = InteractType.SideWall
+            .IsBlocked = True
+        End With
+        With InteractList(3, 3)
+            .InteractItem = InteractType.HalfWallLeft
+            .IsBlocked = True
+        End With
+
+        With InteractList(2, 3)
+            .InteractItem = InteractType.Wall
+            .IsBlocked = True
+        End With
+        With InteractList(1, 3)
+            .InteractItem = InteractType.Wall
+            .IsBlocked = True
+        End With
+
+        With InteractList(5, 0)
+            .InteractItem = InteractType.InLeftMidCorner1
+            .IsBlocked = True
+        End With
+        With InteractList(6, 0)
+            .InteractItem = InteractType.InLeftMidCorner2
+            .IsBlocked = True
+        End With
+        With InteractList(5, 1)
+            .InteractItem = InteractType.SideSilverDoor
+            .IsBlocked = True
+        End With
+        With InteractList(5, 2)
+            .InteractItem = InteractType.SideWall
+            .IsBlocked = True
+        End With
+        With InteractList(5, 3)
+            .InteractItem = InteractType.SideWall
+            .IsBlocked = True
+        End With
+        With InteractList(5, 4)
+            .InteractItem = InteractType.HalfWallRight
+            .IsBlocked = True
+        End With
+        For x = 6 To 8
+            With InteractList(x, 4)
+                .InteractItem = InteractType.Wall
+                .IsBlocked = True
+            End With
+        Next
+
+        For x = 1 To 5
+            With InteractList(x, 7)
+                .InteractItem = InteractType.Wall
+                .IsBlocked = True
+            End With
+        Next
+        With InteractList(6, 7)
+            .InteractItem = InteractType.RightCorner
+            .IsBlocked = True
+        End With
+        For y = 8 To 10
+            With InteractList(6, y)
+                .InteractItem = InteractType.SideWall
+                .IsBlocked = True
+            End With
+        Next
+        With InteractList(6, 10)
+            .InteractItem = InteractType.SideBronzeDoor
+            .IsBlocked = True
+        End With
+
+        With InteractList(1, 5)
+            .InteractItem = InteractType.PortalRed
+        End With
+        With InteractList(1, 4)
+            .InteractItem = InteractType.Pyramid
+            .IsBlocked = True
+        End With
+        With InteractList(1, 6)
+            .InteractItem = InteractType.Pyramid
+            .IsBlocked = True
+        End With
+        With InteractList(1, 8)
+            .InteractItem = InteractType.PortalGreen
+        End With
+
+        With InteractList(2, 4)
+            .InteractItem = InteractType.GoldShield
+        End With
+        With InteractList(2, 6)
+            .InteractItem = InteractType.GoldSword
+        End With
+
+        With InteractList(7, 1)
+            .InteractItem = InteractType.GoldShield
+        End With
+        With InteractList(6, 2)
+            .InteractItem = InteractType.GoldShield
+        End With
+        With InteractList(7, 3)
+            .InteractItem = InteractType.GoldSword
+        End With
+        With InteractList(8, 2)
+            .InteractItem = InteractType.GoldSword
+        End With
+
+        With InteractList(6, 1)
+            .InteractItem = InteractType.GoldKey
+        End With
+        With InteractList(8, 1)
+            .InteractItem = InteractType.GoldKey
+        End With
+        With InteractList(6, 3)
+            .InteractItem = InteractType.SilverKey
+        End With
+        With InteractList(8, 3)
+            .InteractItem = InteractType.SilverKey
+        End With
+        With InteractList(7, 2)
+            .InteractItem = InteractType.BronzeKey
+        End With
+
+        With InteractList(1, 1)
+            .InteractItem = InteractType.CursedShield
+        End With
+        With InteractList(1, 2)
+            .InteractItem = InteractType.CursedSword
+        End With

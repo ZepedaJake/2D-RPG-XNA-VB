@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{40879F69-DC49-43E2-A64A-426DEF443803}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>My Project</AppDesignerFolder>
+    <RootNamespace>WindowsGame1</RootNamespace>
+    <AssemblyName>WindowsGame1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <XnaProfile>Reach</XnaProfile>
+    <XnaCrossPlatformGroupID>2dfc0d4e-7773-4c09-8127-8084554bb684</XnaCrossPlatformGroupID>
+    <XnaOutputType>Game</XnaOutputType>
+    <ApplicationIcon>Resources\Game.ico</ApplicationIcon>
+    <Thumbnail>Resources\GameThumbnail.png</Thumbnail>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>H:\VB Game\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <DocumentationFile>WindowsGame1.xml</DocumentationFile>
+    <XnaCompressContent>false</XnaCompressContent>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <DocumentationFile>WindowsGame1.xml</DocumentationFile>
+    <XnaCompressContent>true</XnaCompressContent>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>06678DBA318DBE558C00A5C0B7ABCD004C01A991</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>WindowsGame1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.GamerServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Net" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Globals\Fonts.vb" />
+    <Compile Include="Globals\Input.vb" />
+    <Compile Include="Globals\Music.vb" />
+    <Compile Include="Globals\Textures.vb" />
+    <Compile Include="Main\Menus\MenuEntry.vb" />
+    <Compile Include="Main\Menus\MenuGFX.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="Main\Program.vb" />
+    <Compile Include="Main\Game1.vb" />
+    <Compile Include="Globals\Globals.vb" />
+    <Compile Include="Screen Manager\BaseScreen.vb" />
+    <Compile Include="Screen Manager\ScreenManager.vb" />
+    <Compile Include="Screen Manager\Screens\Menus\CreditsMenu.vb" />
+    <Compile Include="Screen Manager\Screens\Menus\DeathMenu.vb" />
+    <Compile Include="Screen Manager\Screens\IntroScreen.vb" />
+    <Compile Include="Screen Manager\Screens\Menus\SkillsMenu.vb" />
+    <Compile Include="Screen Manager\Screens\Menus\YesNo.vb" />
+    <Compile Include="Screen Manager\Screens\World\Boss.vb" />
+    <Compile Include="Screen Manager\Screens\World\Debug.vb" />
+    <Compile Include="Screen Manager\Screens\Menus\BattleMenu.vb" />
+    <Compile Include="Screen Manager\Screens\Menus\MainMenu.vb" />
+    <Compile Include="Screen Manager\Screens\Menus\Message.vb" />
+    <Compile Include="Screen Manager\Screens\Menus\PauseMenu.vb" />
+    <Compile Include="Screen Manager\Screens\Menus\StatsMenu.vb" />
+    <Compile Include="Screen Manager\Screens\Menus\Status.vb" />
+    <Compile Include="Screen Manager\Screens\Menus\YesNoMenu.vb" />
+    <Compile Include="Screen Manager\Screens\TestScreen.vb" />
+    <Compile Include="Screen Manager\Screens\TitleScreen.vb" />
+    <Compile Include="Screen Manager\Screens\World\Toon.vb" />
+    <Compile Include="Screen Manager\Screens\World\WorldScreen.vb" />
+    <Compile Include="World\Enemy.vb" />
+    <Compile Include="World\EnemyBase.vb" />
+    <Compile Include="World\Interact.vb" />
+    <Compile Include="World\InteractBase.vb" />
+    <Compile Include="World\MapBase.vb" />
+    <Compile Include="World\MapHandler.vb" />
+    <Compile Include="World\Tile.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Game.ico" />
+    <Content Include="Resources\GameThumbnail.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System" />
+    <Import Include="Microsoft.Xna.Framework" />
+    <Import Include="Microsoft.Xna.Framework.Audio" />
+    <Import Include="Microsoft.Xna.Framework.Content" />
+    <Import Include="Microsoft.Xna.Framework.GamerServices" />
+    <Import Include="Microsoft.Xna.Framework.Graphics" />
+    <Import Include="Microsoft.Xna.Framework.Input" />
+    <Import Include="Microsoft.Xna.Framework.Media" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WindowsGame1Content\WindowsGame1Content.contentproj">
+      <Name>WindowsGame1Content</Name>
+      <XnaReferenceType>Content</XnaReferenceType>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="WindowsGame1_TemporaryKey.pfx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>

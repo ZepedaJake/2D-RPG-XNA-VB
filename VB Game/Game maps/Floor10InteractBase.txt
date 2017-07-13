@@ -1,0 +1,99 @@
+With InteractList(4, 4)
+            .InteractItem = InteractType.Fountain11
+            .IsBlocked = True
+        End With
+        With InteractList(5, 4)
+            .InteractItem = InteractType.Fountain12
+            .IsBlocked = True
+        End With
+        With InteractList(6, 4)
+            .InteractItem = InteractType.Fountain13
+            .IsBlocked = True
+        End With
+        With InteractList(7, 4)
+            .InteractItem = InteractType.Fountain14
+            .IsBlocked = True
+        End With
+        With InteractList(8, 4)
+            .InteractItem = InteractType.Fountain15
+            .IsBlocked = True
+        End With
+
+        With InteractList(4, 5)
+            .InteractItem = InteractType.Fountain21
+            .IsBlocked = True
+        End With
+        With InteractList(5, 5)
+            .InteractItem = InteractType.Fountain22
+            .IsBlocked = True
+        End With
+        With InteractList(6, 5)
+            .InteractItem = InteractType.Fountain23
+            .IsBlocked = True
+        End With
+        With InteractList(7, 5)
+            .InteractItem = InteractType.Fountain24
+            .IsBlocked = True
+        End With
+        With InteractList(8, 5)
+            .InteractItem = InteractType.Fountain25
+            .IsBlocked = True
+        End With
+
+        With InteractList(4, 6)
+            .InteractItem = InteractType.Fountain31
+            .IsBlocked = True
+        End With
+        With InteractList(5, 6)
+            .InteractItem = InteractType.Fountain32
+            .IsBlocked = True
+        End With
+        With InteractList(6, 6)
+            .InteractItem = InteractType.Fountain33
+            .IsBlocked = True
+        End With
+        With InteractList(7, 6)
+            .InteractItem = InteractType.Fountain34
+            .IsBlocked = True
+        End With
+        With InteractList(8, 6)
+            .InteractItem = InteractType.Fountain35
+            .IsBlocked = True
+        End With
+
+        With InteractList(2, 2)
+            .InteractItem = InteractType.Pyramid
+            .IsBlocked = True
+        End With
+        With InteractList(2, 8)
+            .InteractItem = InteractType.Pyramid
+            .IsBlocked = True
+        End With
+        With InteractList(10, 2)
+            .InteractItem = InteractType.Pyramid
+            .IsBlocked = True
+        End With
+        With InteractList(10, 8)
+            .InteractItem = InteractType.Pyramid
+            .IsBlocked = True
+        End With
+
+        With InteractList(6, 1)
+            .InteractItem = InteractType.PortalGreen
+        End With
+        With InteractList(6, 9)
+            .InteractItem = InteractType.PortalRed
+        End With
+
+        With InteractList(1, 1)
+            .InteractItem = InteractType.CursedSword
+        End With
+        With InteractList(1, 9)
+            .InteractItem = InteractType.CursedShield
+        End With
+        With InteractList(11, 1)
+            .InteractItem = InteractType.CursedShield
+        End With
+        With InteractList(11, 9)
+            .InteractItem = InteractType.CursedSword
+        End With
